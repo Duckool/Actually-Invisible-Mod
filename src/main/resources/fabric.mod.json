@@ -3,15 +3,15 @@
 	"id": "actually-invisible",
 	"version": "1.1.0",
 	"name": "Actually Invisible",
-	"description": "A mod that actually makes you invisible.",
+	"description": "A mod that actually makes you invisible (server-only)",
 	"authors": [
 		"Duckool"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
+		"homepage": "https://legacy.curseforge.com/minecraft/mc-mods/actually-invisible",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "CC0-1.0",
+	"license": "CC-BY-NC-3.0",
 	"icon": "assets/actually-invisible/icon.png",
 	"environment": "server",
 	"entrypoints": {
