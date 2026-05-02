@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "actually-invisible",
-	"version": "1.1.0",
+	"version": "1.0.0",
 	"name": "Actually Invisible",
 	"description": "A mod that actually makes you invisible (server-only)",
 	"authors": [
@@ -13,7 +13,7 @@
 	},
 	"license": "CC-BY-NC-3.0",
 	"icon": "assets/actually-invisible/icon.png",
-	"environment": "server",
+	"environment": "*",
 	"entrypoints": {
 		"main": [
 			"duckool.actuallyinvisible.ActuallyInvisible"

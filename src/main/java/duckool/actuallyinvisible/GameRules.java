@@ -15,13 +15,13 @@ public class GameRules implements ModInitializer {
     //mob detection Gamerule
     public static final GameRule<Boolean> MOB_CAN_DETECT_BOOLEAN_GAMERULE = GameRuleBuilder
             .forBoolean(false)
-            .category(GameRuleCategory.MOBS)
+            .category(ACTUALLY_INVISIBLE_CATEGORY)
             .buildAndRegister(Identifier.fromNamespaceAndPath(ActuallyInvisible.MOD_ID, "mob_can_detect_invisible"));
 
     //mob reaction Gamerule
     public static final GameRule<Boolean> MOB_CAN_REACT_BOOLEAN_GAMERULE = GameRuleBuilder
             .forBoolean(true)
-            .category(GameRuleCategory.MOBS)
+            .category(ACTUALLY_INVISIBLE_CATEGORY)
             .buildAndRegister(Identifier.fromNamespaceAndPath(ActuallyInvisible.MOD_ID, "mob_can_react_invisible"));
 
     //gear visivility Gamerule
