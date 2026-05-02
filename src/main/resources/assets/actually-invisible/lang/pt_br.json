@@ -1,0 +1,15 @@
+{
+  "gamerule.category.actually-invisible.actually_invisible": "Actually Invisible",
+
+  "gamerule.actually-invisible.mob_can_detect_invisible": "Detecção de mobs",
+  "gamerule.actually-invisible.mob_can_detect_invisible.description": "Restaura o comportamento padrão onde mobs enxergam jogadores invisíveis de perto.",
+
+  "gamerule.actually-invisible.mob_can_react_invisible": "Retaliação de mobs",
+  "gamerule.actually-invisible.mob_can_react_invisible.description": "Permite que mobs revidem caso sejam atacados por um jogador invisível.",
+
+  "gamerule.actually-invisible.is_gear_visible": "Exibir equipamentos",
+  "gamerule.actually-invisible.is_gear_visible.description": "Exibe a armadura e os itens na mão de jogadores invisíveis. Você sempre verá o seu próprio equipamento.",
+
+  "gamerule.actually-invisible.bubble_visible_range": "Alcance das bolhas",
+  "gamerule.actually-invisible.bubble_visible_range.description": "A distância em blocos em que as partículas de invisibilidade são vistas por outros. Defina como 0 para desativar."
+}

@@ -1,0 +1,16 @@
+{
+	"required": true,
+	"package": "duckool.actuallyinvisible.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"TargetingConditionsMixin",
+		"ServerEntityMixin",
+		"LivingEntityMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

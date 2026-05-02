@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "actually-invisible",
+	"version": "1.1.0",
+	"name": "Actually Invisible",
+	"description": "A mod that actually makes you invisible.",
+	"authors": [
+		"Duckool"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/actually-invisible/icon.png",
+	"environment": "server",
+	"entrypoints": {
+		"main": [
+			"duckool.actuallyinvisible.ActuallyInvisible"
+		]
+	},
+	"mixins": [
+		"actually-invisible.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.2",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

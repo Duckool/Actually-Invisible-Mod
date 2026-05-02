@@ -1,0 +1,15 @@
+{
+  "gamerule.category.actually-invisible.actually_invisible": "Actually Invisible",
+
+  "gamerule.actually-invisible.mob_can_detect_invisible": "Mobs detection",
+  "gamerule.actually-invisible.mob_can_detect_invisible.description": "Restores vanilla behavior where mobs can spot invisible players at close range.",
+
+  "gamerule.actually-invisible.mob_can_react_invisible": "Mob retaliation",
+  "gamerule.actually-invisible.mob_can_react_invisible.description": "Allows mobs to fight back if attacked by an invisible player.",
+
+  "gamerule.actually-invisible.is_gear_visible": "Display gear",
+  "gamerule.actually-invisible.is_gear_visible.description": "Display armor and held items on invisible players. You always see your own gear",
+
+  "gamerule.actually-invisible.bubble_visible_range": "Bubble range",
+  "gamerule.actually-invisible.bubble_visible_range.description": "The distance in blocks that invisibility bubble particles are visible to others. Set to 0 to disable."
+}
